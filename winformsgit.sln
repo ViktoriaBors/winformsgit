@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winformsgit", "winformsgit\winformsgit.csproj", "{E18BE44A-4951-4676-93C7-5C02E2997457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "installer", "installer\installer.csproj", "{3A36556E-75C2-4C33-AA24-E591362B7621}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E18BE44A-4951-4676-93C7-5C02E2997457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18BE44A-4951-4676-93C7-5C02E2997457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18BE44A-4951-4676-93C7-5C02E2997457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18BE44A-4951-4676-93C7-5C02E2997457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A36556E-75C2-4C33-AA24-E591362B7621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A36556E-75C2-4C33-AA24-E591362B7621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A36556E-75C2-4C33-AA24-E591362B7621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A36556E-75C2-4C33-AA24-E591362B7621}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55FC5CBA-54ED-4760-B074-EAD43308F33F}
+	EndGlobalSection
+EndGlobal
